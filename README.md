@@ -19,12 +19,14 @@ d)Identify operational trends and potential areas of inefficiency.
 e)Provides insight that can support management planning and decision making.
 
 ##TOOLS USED
+
 EXCEL;for data visualsation,dashboard development and repoting.
 Python;for data cleaning and analysis
 SQL;for data querying
 POWER BI;for data visualisation,dashboad development and reporting.
 
 ##KEY INSIGHTS
+
 The analysis aims to identify:
 a)Differences in perfomance across diffence projects
 b)Projects perfoming well against selected KPIs
@@ -32,6 +34,7 @@ c)Areas where operational perfomance may require improvement
 d)Trends and patterns that can help the management allocate resources more effectively
 
 ##CONCLUSION
+
 This project demonstrates how data analysis and dashboard reporting can be used to help a facilities management
 and maintenance company monitor a project perfomance,identify a project operational improvement opportunities and
 and support informed business decisions.
